@@ -1,2 +1,1 @@
-Skanatek
-====
+skanatek.github.io
