@@ -1,22 +1,11 @@
 ---
 layout: jobs 
 ---
-# Your career with Skanatek
 
-[Software Engineer](software-engineer-job.html)
+## Introductory task.
 
-[Internship: get hands-on experience in a real company!](software-engineer-job-internship.html)
+##### *Dear applicant, the task is very well documented. Please, read the description carefully before you start implementing the task.*
 
-[Arbetsparkik: learn to code for real and get paid!](software-engineer-job-internship-stockholm-goteborg-malmo.html)
-
-[Write your thesis at our company](thesis.html)
-
-[Introductory task](introductory-task.html)
-
-
-
-
-## <a id="introductory_task"></a>Introductory task.
 At Skanatek we believe that well-organized software processess are a big part of success. It is equally important to code well, to test the code and to document the code. It is also important for a software development team to collaborate smoothly via versioning systems and an issue tracker.
 
 Therefore, the introductory task consists of smaller sub-tasks which are not just coding. In addition, the introductory task tests how well an applicant can learn and adapt to new technologies:
@@ -32,4 +21,5 @@ Therefore, the introductory task consists of smaller sub-tasks which are not jus
 - Document the program according to [PEP8](http://www.python.org/dev/peps/pep-0008/) and create a simple README file which explains how to run the program.
 - Push the code to the repository.
 - Resolve the issue and report that in the issue tracker.
+- Send your CV with and the ID of the resolved Redmine issue to info at skanatek d0t se
 - Once you are done with the previous step, we will be notified by the issue tracker. We will run you small program according to your README file and *then* we will contact you.
