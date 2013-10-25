@@ -1,5 +1,6 @@
 ---
 layout: jobs 
+title: Software Engineer Job (internship) at Skanatek 
 ---
 ## Internship: get hands-on experience in a real company! 
 

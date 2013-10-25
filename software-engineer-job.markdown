@@ -1,5 +1,6 @@
 ---
 layout: jobs 
+title: Software Engineer Job at Skanatek 
 ---
 ## Software Engineer position at Skanatek 
 

@@ -1,5 +1,6 @@
 ---
 layout: jobs 
+title: Jobs at Skanatek
 ---
 # Your career with Skanatek
 
