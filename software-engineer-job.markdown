@@ -4,6 +4,7 @@ title: Software Engineer Job at Skanatek
 ---
 ## Software Engineer position at Skanatek 
 
+*We are interested in universal coders who like to solve original problems with production-ready code*
 
 ### What you will do:
 
