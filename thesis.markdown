@@ -1,6 +1,6 @@
 ---
 layout: jobs 
-title: Thesis at Skanatek 
+title: Your thesis at Skanatek 
 ---
 
 ## Thesis: we have a topic for you!
