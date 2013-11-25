@@ -6,6 +6,7 @@ title: Mjukvara Ingenjör jobb för studenter i Stockholm, Göteborg, Malmö och
 ## Arbetspraktik: lär dig koda på riktigt och få betalt!
 ### Jobb som programvaruingenjör för studenter i Stockholm, Göteborg, Malmö och andra svenska städer.
 
+
 *Praktikplatserna bedrivs inom ramen för Arbetsförmedlingens program för [arbetspraktik](http://www.arbetsformedlingen.se/download/18.46ccfec5127ddccec778000492/). Du behöver vara registrerad som arbetssökande hos [Arbetsförmedlingen](http://www.arbetsformedlingen.se/) för kunna ansöka om den här typen av stöd.*
 
 ### Vad du kommer att lära dig:
@@ -57,3 +58,4 @@ title: Mjukvara Ingenjör jobb för studenter i Stockholm, Göteborg, Malmö och
 </div>
 
 
+##### Denna praktikplats läge förblir öppen tills vidare

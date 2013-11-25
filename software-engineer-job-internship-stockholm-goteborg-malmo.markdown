@@ -6,6 +6,7 @@ title: Software Engineer job for students in Stockholm, Göteborg, Malmö and ot
 ## Arbetspraktik: learn to code for real and get paid!
 ### Software Engineer job for students in Stockholm, Göteborg, Malmö and other Swedish cities.
 
+
 *The internship is powered by the [Arbetspraktik program](http://www.arbetsformedlingen.se/download/18.46ccfec5127ddccec778000492/) of the Swedish Labour Agency. You need to be registered as unemployed at [Arbetsförmedlingen](http://www.arbetsformedlingen.se/) to apply for this type of support.*
 
 ### What you will learn:
@@ -56,3 +57,4 @@ title: Software Engineer job for students in Stockholm, Göteborg, Malmö and ot
 </div>
 
 
+##### This internship position remains open until further notice
