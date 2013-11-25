@@ -10,6 +10,8 @@ title: Jobs at Skanatek
 
 [Arbetsparkik: learn to code for real and get paid!](software-engineer-job-internship-stockholm-goteborg-malmo.html)
 
+[Arbetspraktik: lär dig att koden för verklig och få betalt!](mjukvara-ingenjor-jobb-for-studenter-stockholm-goteborg-malmo.html)
+
 [Write your thesis at our company](thesis.html)
 
 [Introductory task](introductory-task.html)
