@@ -1,6 +1,6 @@
 ---
 layout: jobs 
-title: Software Engineer job for students in Stockholm, Göteborg, Malmö and other Swedish cities.
+title: Software Engineer internship for students in Stockholm, Göteborg, Malmö and other Swedish cities.
 ---
 
 ## Arbetspraktik: learn to code for real and get paid!
