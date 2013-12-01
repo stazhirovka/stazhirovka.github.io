@@ -1,1 +1,1 @@
-skanatek.github.io
+Boplats informational site
