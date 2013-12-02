@@ -1,1 +1,1 @@
-Boplats informational site
+Stazhirovka informational site
